@@ -1,0 +1,11 @@
+base_url: "https://aqarmap.com.eg"
+listings_per_page: 20
+pages_to_scrape: 30
+request_delay_seconds: 2
+listing_types:
+  - name: "sale"
+    search_path: "/en/for-sale/apartment/cairo/"
+    output_file: "aqarmap_sale.jsonl"
+  - name: "rent"
+    search_path: "/en/for-rent/apartment/cairo/"
+    output_file: "aqarmap_rent.jsonl"

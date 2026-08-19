@@ -1,0 +1,10 @@
+dashboard_data/
+venv/
+.venv/
+__pycache__/
+*.pyc
+logs/
+.env
+aqarmap_listings.jsonl
+aqarmap_sale.jsonl
+aqarmap_rent.jsonl
