@@ -8,3 +8,4 @@ logs/
 aqarmap_listings.jsonl
 aqarmap_sale.jsonl
 aqarmap_rent.jsonl
+scraper/*.jsonl
